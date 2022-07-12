@@ -1,0 +1,15 @@
+sample_id,molecule_h5
+pbs_6,/home/par57/scratch60/PanCoV/1-H1_MMT/outs/molecule_info.h5
+pbs_7,/home/par57/scratch60/PanCoV/2-H2_MMT/outs/molecule_info.h5
+pbs_8,/home/par57/scratch60/PanCoV/3-H3_MMT/outs/molecule_info.h5
+delta_6,/home/par57/scratch60/PanCoV/4-H4_MMT/outs/molecule_info.h5
+delta_7,/home/par57/scratch60/PanCoV/5-H5_MMT/outs/molecule_info.h5
+delta_8,/home/par57/scratch60/PanCoV/6-H6_MMT/outs/molecule_info.h5
+panLow_6,/home/par57/scratch60/PanCoV/7-H7_MMT/outs/molecule_info.h5
+panLow_7,/home/par57/scratch60/PanCoV/8-H8_MMT/outs/molecule_info.h5
+panLow_8,/home/par57/scratch60/PanCoV/9-H9_MMT/outs/molecule_info.h5
+panLow_9,/home/par57/scratch60/PanCoV/10-H10_MMT/outs/molecule_info.h5
+panHigh_6,/home/par57/scratch60/PanCoV/11-H11_MMT/outs/molecule_info.h5
+panHigh_7,/home/par57/scratch60/PanCoV/12-H12_MMT/outs/molecule_info.h5
+panHigh_8,/home/par57/scratch60/PanCoV/13-G1_MMT/outs/molecule_info.h5
+panHigh_9,/home/par57/scratch60/PanCoV/14-G2_MMT/outs/molecule_info.h5
